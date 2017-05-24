@@ -7,4 +7,4 @@ The Pixelating Mixer is an opportunity for DH scholars across campus to meet col
 
 Text File used in this session
 
-[Bush 2001  Inauguration Speech](../blob/master/Bush_Inauguration_Speech_2001)
+[Bush 2001  Inauguration Speech](https://github.com/satkey/text-voyant/blob/master/Bush_Inauguration_Speech_2001)
